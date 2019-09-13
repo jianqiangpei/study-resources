@@ -4,8 +4,6 @@ server:
 spring:
   application:
     name: study-order
-  profiles:
-    active: @spring.profiles.active@
 
 study:
   swagger:
