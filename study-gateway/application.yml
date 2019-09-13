@@ -70,6 +70,10 @@ spring:
               args:
                 template: /$\{segment}
 
+study:
+  test: 123
+
+
 #      globalcors:
 #        cors-configurations:
 #          '[/**]':
