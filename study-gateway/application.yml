@@ -1,11 +1,4 @@
-server:
-  port: 8080
-
 spring:
-  application:
-    name: study-gateway
-  profiles:
-    active: @spring.profiles.active@
   cloud:
     gateway:
       filter:
